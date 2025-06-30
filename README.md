@@ -90,7 +90,7 @@ _See: `Assets/Script/TutorialManager`_
 NPCs use coroutines to move between merchants and idle, creating a lively market atmosphere.  
 _See: `Assets/Script/NpcAI`_
 
-![NPC AI](ReadmeAssets/npc-ai.gif)
+![NPC AI](ReadmeAssets/NpcAI.gif)
 
 ---
 
@@ -104,7 +104,7 @@ Merchants accumulate coins when visited by NPCs, which players can collect.
 ### A* Pathfinding  
 Uses [A* Pathfinding Project](Assets/AstarPathfindingProject/Readme.txt) for realistic character movement.  
 
-![A* Pathfinding](ReadmeAssets/astar-pathfinding.gif)
+![A* Pathfinding](ReadmeAssets/AStarPathfinding.gif)
 
 ---
 
@@ -112,7 +112,7 @@ Uses [A* Pathfinding Project](Assets/AstarPathfindingProject/Readme.txt) for rea
 Daily market reports are presented to the player.  
 _See: `Assets/Script/InvoiceUI`_
 
-![Invoice](ReadmeAssets/invoice.gif)
+![Invoice](ReadmeAssets/Invoice.gif)
 
 ---
 
@@ -133,7 +133,7 @@ Purchase items to restock your merchants.
 ### Restock & Upgrade Merchant 
 Supply resources to keep stores open and prevent stockouts. Stores can be upgraded for more advanced strategies.  
 
-![Restock & Upgrade Merchant](ReadmeAssets/Restock&UpgradeMerchant.gif)
+![Restock & Upgrade Merchant](ReadmeAssets/Restock&Upgrade.gif)
 
 ---
 
@@ -141,7 +141,7 @@ Supply resources to keep stores open and prevent stockouts. Stores can be upgrad
 A minigame that helps Pocin put vegetables into a basket.  
 _See: `Assets/Script/MinigamePocin`_
 
-![Minigame Pocin](ReadmeAssets/minigame-pocin.gif)
+![Minigame Pocin](ReadmeAssets/MinigamePocin.gif)
 
 ---
 
@@ -149,7 +149,7 @@ _See: `Assets/Script/MinigamePocin`_
 A minigame that helps Kunchan set the fire for cooking.  
 _See: `Assets/Script/MinigameKunchan`_
 
-![Minigame Kunchan](ReadmeAssets/minigame-kunchan.gif)
+![Minigame Kunchan](ReadmeAssets/MinigameKunchan.gif)
 
 ---
 
@@ -157,21 +157,21 @@ _See: `Assets/Script/MinigameKunchan`_
 A minigame that helps Ayang choose the type of meat according to the question.  
 _See: `Assets/Script/MinigameAyang`_
 
-![Minigame Ayang](ReadmeAssets/minigame-ayang.gif)
+![Minigame Ayang](ReadmeAssets/MinigameAyang.gif)
 
 ---
 
 ### Quick Event Battle  
 Engage in click-spam battles against Uto the thug to protect your earnings.  
 
-![Quick Event Battle](ReadmeAssets/quick-event-battle.gif)
+![Quick Event Battle](ReadmeAssets/QuickEventBattle.gif)
 
 ---
 
 ### Boss Final Battle  
 Face Uwo, the urban legend, in a final click-spam battle to save your market.  
 
-![Boss Final Battle](ReadmeAssets/boss-final-battle.gif)
+![Boss Final Battle](ReadmeAssets/BossFinalBattle.gif)
 
 ---
 
