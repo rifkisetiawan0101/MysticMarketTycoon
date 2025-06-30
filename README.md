@@ -79,7 +79,7 @@ The feature allows players to arrange the layout of the store they purchase acco
 
 ### In-Game Tutorial  
 Helpful tutorials guide players throughout the gameplay.  
-![In-Game Tutorial](ReadmeAssets/in-game-tutorial.gif)
+![In-Game Tutorial](ReadmeAssets/InGameTutorial.gif)
 
 ---
 
@@ -92,7 +92,7 @@ _See: `Assets/Script/NpcAI`_
 
 ### Merchant Coin Collect  
 Merchants accumulate coins when visited by NPCs, which players can collect.  
-![Merchant Coin Collect](ReadmeAssets/merchant-coin-collect.gif)
+![Merchant Coin Collect](ReadmeAssets/MerchantCoinCollect.gif)
 
 ---
 
@@ -110,19 +110,19 @@ Daily market reports are presented to the player.
 
 ### Collect Item & Inventory  
 Morning exploration events allow players to gather various collectible materials for merchant upgrades.  
-![Collect Item & Inventory](ReadmeAssets/collect-item-inventory.gif)
+![Collect Item & Inventory](ReadmeAssets/CollectItem&Inventory.gif)
 
 ---
 
 ### Buy Item  
 Purchase items to restock your merchants.  
-![Buy Item](ReadmeAssets/buy-item.gif)
+![Buy Item](ReadmeAssets/BuyItem.gif)
 
 ---
 
-### Restock & Upgrade Merchant  
+### Restock & Upgrade Merchant 
 Supply resources to keep stores open and prevent stockouts. Stores can be upgraded for more advanced strategies.  
-![Restock & Upgrade Merchant](ReadmeAssets/restock-upgrade-merchant.gif)
+![Restock & Upgrade Merchant](ReadmeAssets/Restock&UpgradeMerchant.gif)
 
 ---
 
