@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff8041948e4e1604595cd1d22a0ee0b7, type: 3}
+  m_Name: Spesial 3
+  m_EditorClassIdentifier: 
+  spesialName: Kuli Sakti
+  spesialPrice: 0
+  spesialPrefab: {fileID: 5331294723538348162, guid: 59feb389e823d27448002ba6ecf4aa60, type: 3}
+  spesialConstructionPrefab: {fileID: 5331294723538348162, guid: e1174cf9ea0199f488274096cc936e5f, type: 3}
+  spesialButton: {fileID: 21300000, guid: dcb56c1f611ed5f4486d6b984fc20ecd, type: 3}
+  selectedSpesialButton: {fileID: 21300000, guid: b7bdb646029ff15468c94e6c8bf767f0, type: 3}
+  spesialWindow: {fileID: 21300000, guid: 79a0baa3873d1d14780cba7dd8f5d04c, type: 3}
+  spesialCursor: {fileID: 8090969576927368307, guid: 4ed1cdbaa74d7734aa6e5034ae0f9fd7, type: 3}
+  spesialPlacementPrefab: {fileID: 6384518165722326447, guid: d34cb7e7068d60c4a960ee99a57f57e4, type: 3}

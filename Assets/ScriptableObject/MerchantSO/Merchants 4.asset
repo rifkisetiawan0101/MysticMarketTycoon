@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46aa3bc57eb427042b06e3544f7aed39, type: 3}
+  m_Name: Merchants 4
+  m_EditorClassIdentifier: 
+  merchantName: 
+  merchantPrice: 0
+  merchantPrefab: {fileID: 0}
+  merchantConstructionPrefab: {fileID: 0}
+  merchantButton: {fileID: 21300000, guid: 6585231c45380204babf98150c6a85fd, type: 3}
+  selectedMerchantButton: {fileID: 21300000, guid: 6585231c45380204babf98150c6a85fd, type: 3}
+  merchantWindow: {fileID: 21300000, guid: 0ee2784ab98a3d74bba077182d76e4c3, type: 3}
+  merchantCursor: {fileID: 0}
+  merchantPlacementPrefab: {fileID: 0}

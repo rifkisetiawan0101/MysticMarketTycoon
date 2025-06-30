@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7f518a3fa7dcd74cb83c05cce87cda6, type: 3}
+  m_Name: Pohon Angker
+  m_EditorClassIdentifier: 
+  furniturName: Pohon Angker
+  furniturPrice: 100
+  furniturPrefab: {fileID: 5331294723538348162, guid: e0444cbad58cd5840b39253c774aa6db, type: 3}
+  furniturConstructionPrefab: {fileID: 5331294723538348162, guid: 3296165fa5c4f1d47b89fcabd97be5f1, type: 3}
+  furniturButton: {fileID: 21300000, guid: 3e6c03110c825f745921427029e5c66e, type: 3}
+  selectedFurniturButton: {fileID: 21300000, guid: f61f505e67cfab242a9f059d6f7a11a3, type: 3}
+  furniturWindow: {fileID: 21300000, guid: aeb8155473adffe4eb0b6b7a7b28ed8b, type: 3}
+  furniturCursor: {fileID: 8090969576927368307, guid: edc82ac1395b70d489d7e511c87ecb2c, type: 3}
+  furniturPlacementPrefab: {fileID: 6384518165722326447, guid: 80577939279c3ac458561ed7779db053, type: 3}

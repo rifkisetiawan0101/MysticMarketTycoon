@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 0df59bbd600a1674c9a05d194abdc0ba
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kunchanfeedback1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54879272930dd64a8d757d0429d2dd4
+      internalID: 2076106181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kunchanfeedback1_1
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d9907c3bbea4a4095f4667e6435c5c
+      internalID: 373872848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kunchanfeedback1_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ebd033765c421439be535ad5afa461
+      internalID: -1295872078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kunchanfeedback1_3
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 0
+        width: 312
+        height: 522
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a9c4cd21106b345aa842480edf0719
+      internalID: 1194422768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kunchanfeedback1_4
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 0
+        width: 312
+        height: 522
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df15d3953842da489fd29f148f94271
+      internalID: -1273508834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kunchanfeedback1_5
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.505, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d70297c44895354eb738b8f8e8d29fa
+      internalID: 1810673983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kunchanfeedback1_6
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 0
+        width: 312
+        height: 522
+      alignment: 9
+      pivot: {x: 0.509, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2729559d219747940a5ace2f51c19272
+      internalID: -171629459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kunchanfeedback1_7
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.51, y: 0.31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6236678ee1ff9594ea1e949973f4f15f
+      internalID: -52757711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kunchanfeedback1_8
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.52, y: 0.31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb61370212cf53e49a382425907a7df3
+      internalID: 836025070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kunchanfeedback1_9
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 0
+        width: 312
+        height: 522
+      alignment: 9
+      pivot: {x: 0.525, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3186d24af8624d24bbb6e6a003b37151
+      internalID: 845736311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kunchanfeedback1_10
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.53, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d2184004c4cfd4cb25a472af3c8a1c
+      internalID: -707823858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kunchanfeedback1_11
+      rect:
+        serializedVersion: 2
+        x: 3422
+        y: 0
+        width: 312
+        height: 522
+      alignment: 9
+      pivot: {x: 0.53, y: 0.31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fcda309cefc224f81d1594ca6d847e
+      internalID: 1234401897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kunchanfeedback1_12
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.54, y: 0.31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b862b3d7eb956468d17946cc0d812f
+      internalID: 1756883081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kunchanfeedback1_13
+      rect:
+        serializedVersion: 2
+        x: 4043
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.535, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c49c5d40c9bae244afcc72e8e0c756b
+      internalID: -1256441368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kunchanfeedback1_14
+      rect:
+        serializedVersion: 2
+        x: 4354
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.535, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d6ae285e1f13b49ae7965a8697a360
+      internalID: 1988945941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kunchanfeedback1_15
+      rect:
+        serializedVersion: 2
+        x: 4665
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.54, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407e7b70119876f4cb5fe9f4a08c53d6
+      internalID: -77786445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kunchanfeedback1_0: 2076106181
+      kunchanfeedback1_1: 373872848
+      kunchanfeedback1_10: -707823858
+      kunchanfeedback1_11: 1234401897
+      kunchanfeedback1_12: 1756883081
+      kunchanfeedback1_13: -1256441368
+      kunchanfeedback1_14: 1988945941
+      kunchanfeedback1_15: -77786445
+      kunchanfeedback1_2: -1295872078
+      kunchanfeedback1_3: 1194422768
+      kunchanfeedback1_4: -1273508834
+      kunchanfeedback1_5: 1810673983
+      kunchanfeedback1_6: -171629459
+      kunchanfeedback1_7: -52757711
+      kunchanfeedback1_8: 836025070
+      kunchanfeedback1_9: 845736311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff8041948e4e1604595cd1d22a0ee0b7, type: 3}
+  m_Name: Spesial 5
+  m_EditorClassIdentifier: 
+  spesialName: Pebisnis Ghaib
+  spesialPrice: 0
+  spesialPrefab: {fileID: 5331294723538348162, guid: 0489e5706be9ed740ba42f641ec007af, type: 3}
+  spesialConstructionPrefab: {fileID: 5331294723538348162, guid: 95c309565a1653f4fbdd4129c9b83038, type: 3}
+  spesialButton: {fileID: 21300000, guid: 5e1200ea094ccf44e8a222153230400a, type: 3}
+  selectedSpesialButton: {fileID: 21300000, guid: 0e94be154813ed44894016f3892aab1f, type: 3}
+  spesialWindow: {fileID: 21300000, guid: e178cc9f6bdfeae468819fbdacbeba32, type: 3}
+  spesialCursor: {fileID: 8090969576927368307, guid: db4f644b337f1df4e9a676f7a887014b, type: 3}
+  spesialPlacementPrefab: {fileID: 6384518165722326447, guid: ba990ffdee1651b45a98ad4d4641d3f4, type: 3}

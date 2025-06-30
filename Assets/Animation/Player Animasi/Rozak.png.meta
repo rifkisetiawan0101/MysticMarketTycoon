@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: 0c5ce4e00fe73a446aaeb8b5b4aea958
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rozak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6432e86753fc8ef46910397c11f68124
+      internalID: 1749971396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88baa9e24c346e49ae16d92f9db9b31
+      internalID: -1026653551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be74dda6d0659241b25eab6fb311cdf
+      internalID: 834039249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_3
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8431f392f26f15d43860d91ea584a8de
+      internalID: -58130014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_4
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc72cc403e7198e4db3e01e987d89013
+      internalID: -538070069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_5
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2393047a8fda1fc4bb477f3dc563cd96
+      internalID: 1471827041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_6
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2534e63fe40cab246ac7cac2098073f0
+      internalID: -1526755942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_7
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac058a26fd8c704082c437116174d3a
+      internalID: 671391986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_8
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9608ea4d199dcc84bb58e968aab445e8
+      internalID: 8864169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_9
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03200f5cb505f3f449180d03ac315b8e
+      internalID: 1763247541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_10
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de26e9a46b51c754c827d6063a3b291a
+      internalID: -345078000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_11
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e88ed93abd9f845b4b6b16ab42ee83
+      internalID: -379861065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_12
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5dd5b08b746254c9c0bef1c73ab6a8
+      internalID: 825571576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_13
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be994b54065c0ad4d8d141bab30b039f
+      internalID: 659184973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_14
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53c4f53043d9214eaba7fc95c2fee69
+      internalID: -501671990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_15
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53edfba269976cf488a6115043eb0394
+      internalID: 705252707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_16
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6dc95399e3bf24092154ca6b60f043
+      internalID: -1602882321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_17
+      rect:
+        serializedVersion: 2
+        x: 4233
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acadbbac03f4de4caa2dc6fb02cf82a
+      internalID: -969120031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_18
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6997811d5df2e47887c241bba7f4d9
+      internalID: 1308356139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_19
+      rect:
+        serializedVersion: 2
+        x: 4731
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d580da9ff9143b541ad1abc6d26aec3f
+      internalID: -388028882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_20
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fc7cc7a3634b2489a1da78da74d05d
+      internalID: -254274955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_21
+      rect:
+        serializedVersion: 2
+        x: 5229
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5736036673ffef54680f1220ec8d3e86
+      internalID: 1043237798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_22
+      rect:
+        serializedVersion: 2
+        x: 5478
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a431c410e923f314b81fc07f0757cacc
+      internalID: 1799822603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_23
+      rect:
+        serializedVersion: 2
+        x: 5727
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f26b2a672a78b14ebbd70ce2fd8c31d
+      internalID: 766895117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_24
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0aace0bf1aa4e4ab72d64600b4e23d
+      internalID: 750549461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_25
+      rect:
+        serializedVersion: 2
+        x: 6225
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54890479824d844683f4438263f208a
+      internalID: 1560392807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_26
+      rect:
+        serializedVersion: 2
+        x: 6474
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bc8218ecb4da4469410edea26decac
+      internalID: 1903992554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rozak_27
+      rect:
+        serializedVersion: 2
+        x: 6723
+        y: 0
+        width: 249.57143
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b747baa28f9966449e48071154e54a6
+      internalID: -1579576673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Rozak_0: 1749971396
+      Rozak_1: -1026653551
+      Rozak_10: -345078000
+      Rozak_11: -379861065
+      Rozak_12: 825571576
+      Rozak_13: 659184973
+      Rozak_14: -501671990
+      Rozak_15: 705252707
+      Rozak_16: -1602882321
+      Rozak_17: -969120031
+      Rozak_18: 1308356139
+      Rozak_19: -388028882
+      Rozak_2: 834039249
+      Rozak_20: -254274955
+      Rozak_21: 1043237798
+      Rozak_22: 1799822603
+      Rozak_23: 766895117
+      Rozak_24: 750549461
+      Rozak_25: 1560392807
+      Rozak_26: 1903992554
+      Rozak_27: -1579576673
+      Rozak_3: -58130014
+      Rozak_4: -538070069
+      Rozak_5: 1471827041
+      Rozak_6: -1526755942
+      Rozak_7: 671391986
+      Rozak_8: 8864169
+      Rozak_9: 1763247541
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

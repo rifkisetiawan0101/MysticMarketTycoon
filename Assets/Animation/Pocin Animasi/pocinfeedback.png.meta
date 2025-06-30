@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: c097f653397adcf489f64a16d8873ff4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pocinfeedback_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf41f3ff15370f9438a14cb196c71a0b
+      internalID: -166800648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pocinfeedback_1
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034f7b1da1a240246988f9633f48037f
+      internalID: -1355444585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pocinfeedback_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57522f48336396548a455a0aeae2a086
+      internalID: 2014089188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pocinfeedback_3
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01d6b830ffd4164281f639e703fba46
+      internalID: 1093580187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pocinfeedback_4
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.51, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea318db2b4052624ea04f94fd39cc173
+      internalID: -241790634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pocinfeedback_5
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.512, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504382d21f3308e4488d93768fb8fde7
+      internalID: 567478172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pocinfeedback_6
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.515, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710401dfc03027a4c9b030da982ad12e
+      internalID: 97211954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pocinfeedback_7
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.515, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c207b79eb4862e4a8229174d9d97a15
+      internalID: -1541462943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pocinfeedback_8
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 0
+        width: 312
+        height: 522
+      alignment: 9
+      pivot: {x: 0.515, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac293343f11ae984698e0795ce7178bf
+      internalID: -56263025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pocinfeedback_9
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.515, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d07d222747d3e409a4c9391b9a8cc5
+      internalID: -529128520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pocinfeedback_10
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.54, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4f5eabc89e89f47bc4cde9d197dab9
+      internalID: -968789712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pocinfeedback_11
+      rect:
+        serializedVersion: 2
+        x: 3421
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.51, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ef3e1fbde395f4db2c6167c47dba67
+      internalID: 1316826055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pocinfeedback_12
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.515, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9acdfa32248674487f8b031e54e277
+      internalID: -729496127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pocinfeedback_13
+      rect:
+        serializedVersion: 2
+        x: 4043
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.52, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f09514a1275f9a468555959569f5d17
+      internalID: 1430758151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pocinfeedback_14
+      rect:
+        serializedVersion: 2
+        x: 4354
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.522, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df36d5c5de7e59d41bf2e145d00ead20
+      internalID: 1308555036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pocinfeedback_15
+      rect:
+        serializedVersion: 2
+        x: 4665
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.525, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8461e03931145418b380b06059d00e
+      internalID: 231761324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pocinfeedback_0: -166800648
+      pocinfeedback_1: -1355444585
+      pocinfeedback_10: -968789712
+      pocinfeedback_11: 1316826055
+      pocinfeedback_12: -729496127
+      pocinfeedback_13: 1430758151
+      pocinfeedback_14: 1308555036
+      pocinfeedback_15: 231761324
+      pocinfeedback_2: 2014089188
+      pocinfeedback_3: 1093580187
+      pocinfeedback_4: -241790634
+      pocinfeedback_5: 567478172
+      pocinfeedback_6: 97211954
+      pocinfeedback_7: -1541462943
+      pocinfeedback_8: -56263025
+      pocinfeedback_9: -529128520
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

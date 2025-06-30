@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Undefined
+  - Obstacle
+  - NPC
+  - Uto
+  - Audio
+  - ItemMinigame
+  - BakulNormal
+  - Uwo
+  - UwoTitik
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Obstacle
+  - Water
+  - UI
+  - MapBound
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 1152915739
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 349182495
+    locked: 0
+  - name: Shadow
+    uniqueID: 2983353827
+    locked: 0
+  - name: Lighting
+    uniqueID: 1921034069
+    locked: 0
+  - name: UI
+    uniqueID: 735366091
+    locked: 0
+  - name: PersistentUI
+    uniqueID: 1994926135
+    locked: 0

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff8041948e4e1604595cd1d22a0ee0b7, type: 3}
+  m_Name: Spesial 2
+  m_EditorClassIdentifier: 
+  spesialName: Malam Kliwon
+  spesialPrice: 0
+  spesialPrefab: {fileID: 5331294723538348162, guid: acb8c73785adafc4f80ed9ae1f2fd2f6, type: 3}
+  spesialConstructionPrefab: {fileID: 5331294723538348162, guid: 43ce8f0e2eb037f48908f1c7c0537e40, type: 3}
+  spesialButton: {fileID: 21300000, guid: b0b50358e99d880439a1a4940f5fadc2, type: 3}
+  selectedSpesialButton: {fileID: 21300000, guid: 2db48b5a4ece26e44a19bde59ec37c65, type: 3}
+  spesialWindow: {fileID: 21300000, guid: 0336c10aff990144988bc1da6a2283fa, type: 3}
+  spesialCursor: {fileID: 8090969576927368307, guid: f00749f84dbf2814d9db955a15e9163f, type: 3}
+  spesialPlacementPrefab: {fileID: 6384518165722326447, guid: 0e5a10f554f28284f8052aff02310366, type: 3}

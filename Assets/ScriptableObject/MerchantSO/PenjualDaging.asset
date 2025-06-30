@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46aa3bc57eb427042b06e3544f7aed39, type: 3}
+  m_Name: PenjualDaging
+  m_EditorClassIdentifier: 
+  merchantName: Penjual Daging
+  merchantPrice: 2500
+  merchantPrefab: {fileID: 2039379549796929907, guid: 931e35cab09979641a9f659aad3ebdfc, type: 3}
+  merchantConstructionPrefab: {fileID: 8695775265983995601, guid: 79cec47e23d48904a95d25c109481d38, type: 3}
+  merchantButton: {fileID: 21300000, guid: c0bf5382bf784a04f9d166a78c6d5376, type: 3}
+  selectedMerchantButton: {fileID: 21300000, guid: 19a732e04fa9ec14dad76ea516f22364, type: 3}
+  merchantWindow: {fileID: 21300000, guid: 60022d661fe255b43b966e6501346c77, type: 3}
+  merchantCursor: {fileID: 6085225652566334831, guid: 77e43e852523522429268e7b9bf6b591, type: 3}
+  merchantPlacementPrefab: {fileID: 2039379549796929907, guid: 5fbb6c9b2772b254abb5c1103f49f706, type: 3}

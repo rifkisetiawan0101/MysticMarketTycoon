@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff8041948e4e1604595cd1d22a0ee0b7, type: 3}
+  m_Name: Spesial
+  m_EditorClassIdentifier: 
+  spesialName: Awal Ekonomi
+  spesialPrice: 0
+  spesialPrefab: {fileID: 5331294723538348162, guid: 5006934b1cd021f498058958fa924e90, type: 3}
+  spesialConstructionPrefab: {fileID: 5331294723538348162, guid: 60fe22816a5d62c40a502aef47f4d4c5, type: 3}
+  spesialButton: {fileID: 21300000, guid: a236611fca0489b4fafbe1ae1fae39ec, type: 3}
+  selectedSpesialButton: {fileID: 21300000, guid: 30ff88765a5af19479b88a2b5dba1360, type: 3}
+  spesialWindow: {fileID: 21300000, guid: 823450afd08c6cd45915ad48f338a359, type: 3}
+  spesialCursor: {fileID: 8090969576927368307, guid: 39a4b07198eee6a43899639095f9a137, type: 3}
+  spesialPlacementPrefab: {fileID: 6384518165722326447, guid: a54248d8dd3c8ef4f97b12eead4a4820, type: 3}

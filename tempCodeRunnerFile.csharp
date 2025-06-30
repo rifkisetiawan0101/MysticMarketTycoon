@@ -1,0 +1,13 @@
+using namespace ConsoleApp1;
+
+public class Class1 {
+    int lima = 5;
+}
+
+private static void Main(string[] args) {
+    Console.WriteLine(lima + tiga);
+}
+
+public class Class2 {
+    int tiga = 3; 
+}

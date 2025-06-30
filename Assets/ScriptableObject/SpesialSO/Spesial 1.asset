@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff8041948e4e1604595cd1d22a0ee0b7, type: 3}
+  m_Name: Spesial 1
+  m_EditorClassIdentifier: 
+  spesialName: Proyek Besar
+  spesialPrice: 0
+  spesialPrefab: {fileID: 5331294723538348162, guid: 8c73d528e0ccdaf49a79332129e66784, type: 3}
+  spesialConstructionPrefab: {fileID: 5331294723538348162, guid: f68ba7054c4f5af42b31b44b74ea1129, type: 3}
+  spesialButton: {fileID: 21300000, guid: cce38ba82990df34c9a8ee419733292b, type: 3}
+  selectedSpesialButton: {fileID: 21300000, guid: 9f55b144609bae04ebd4a33b4268dbeb, type: 3}
+  spesialWindow: {fileID: 21300000, guid: 8bc624f252cc25549a02823bb4b2e632, type: 3}
+  spesialCursor: {fileID: 8090969576927368307, guid: 03b8af357fbc06c48911d65e7cea7b8f, type: 3}
+  spesialPlacementPrefab: {fileID: 6384518165722326447, guid: 1b9c89647c7c50546bc1e8f534bb627e, type: 3}

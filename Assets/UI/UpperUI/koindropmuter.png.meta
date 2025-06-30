@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: 756ab71d858cb2b4892f24a5cc769d2c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: koindropmuter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80a4fb90783254469b84701b9cedd8e
+      internalID: -1760855901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c7c0e76ae1daa4abbc2f7a819e64b1
+      internalID: -1953540914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e925249a98b3749ab69a41ac82d130
+      internalID: -840094954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 199
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46a7ad1637280c41bfddcca82175606
+      internalID: 1143340191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_4
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b922b211a6f570748930da59c59ecedb
+      internalID: 508997449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_5
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b6a75411ef1e54bbf21862ef308f43
+      internalID: -234156506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_6
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba395793da227e4299f5ab8683f29de
+      internalID: 1572332750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_7
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eec8220b2e2d144abd72d814d8a4f5
+      internalID: 443391714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_8
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12393fce70607745bca02954f20588f
+      internalID: -1999562014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_9
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfa5a0087c1a0a47838b16a9a363a23
+      internalID: 51862046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_10
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3a3c3cd9872e9459a696bdb2f78a8c
+      internalID: 1930662775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_11
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bb9f4e823d44d4bb8db91874f35273
+      internalID: -1914478206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_12
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa229923c12f3024bb0112b9eb9c55c3
+      internalID: -396608441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_13
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13970bf73cc8f6d48a4368160d232531
+      internalID: -1859868954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_14
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1399b4db9687c7c46bb04af31dcb5d40
+      internalID: -1538783397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_15
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a33bdee5986104ba31d867042d3d67
+      internalID: -498371132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_16
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cde2b1735d7a846aea5d055894b835
+      internalID: 1044392243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_17
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c719ffe6220ed514aa150b8adde9b518
+      internalID: 612014545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_18
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ddcdfb8b1d6874b8d3daec16dfa5fd
+      internalID: 1678829898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_19
+      rect:
+        serializedVersion: 2
+        x: 3781
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e92fad6fc0ec04aa4478f15227f818
+      internalID: -2142923527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_20
+      rect:
+        serializedVersion: 2
+        x: 3980
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077a3e2e6e3c618408d46ca5be568e0e
+      internalID: 250992813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_21
+      rect:
+        serializedVersion: 2
+        x: 4179
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c51ff820e724f41ac603c07ce6216f
+      internalID: 409660562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_22
+      rect:
+        serializedVersion: 2
+        x: 4378
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75c9babc4675774c9e8798d63454cfb
+      internalID: -302985313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_23
+      rect:
+        serializedVersion: 2
+        x: 4577
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c228bfcf4b0214ca0df20791739f0d
+      internalID: 2044558922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_24
+      rect:
+        serializedVersion: 2
+        x: 4776
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b923994de2ce1499af3f48e6b8e866
+      internalID: 366362308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_25
+      rect:
+        serializedVersion: 2
+        x: 4975
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578f964721e7b8e45b42ff49d06e1be4
+      internalID: 1916876679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_26
+      rect:
+        serializedVersion: 2
+        x: 5174
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5248b1b5b94674ab3a5271526a2631
+      internalID: -1920938302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_27
+      rect:
+        serializedVersion: 2
+        x: 5373
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80107ebabab0784429daa9580096b17c
+      internalID: -344930831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koindropmuter_28
+      rect:
+        serializedVersion: 2
+        x: 5572
+        y: 0
+        width: 199.2069
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff91baced5e0424c9a7475128219254
+      internalID: -1706702444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      koindropmuter_0: -1760855901
+      koindropmuter_1: -1953540914
+      koindropmuter_10: 1930662775
+      koindropmuter_11: -1914478206
+      koindropmuter_12: -396608441
+      koindropmuter_13: -1859868954
+      koindropmuter_14: -1538783397
+      koindropmuter_15: -498371132
+      koindropmuter_16: 1044392243
+      koindropmuter_17: 612014545
+      koindropmuter_18: 1678829898
+      koindropmuter_19: -2142923527
+      koindropmuter_2: -840094954
+      koindropmuter_20: 250992813
+      koindropmuter_21: 409660562
+      koindropmuter_22: -302985313
+      koindropmuter_23: 2044558922
+      koindropmuter_24: 366362308
+      koindropmuter_25: 1916876679
+      koindropmuter_26: -1920938302
+      koindropmuter_27: -344930831
+      koindropmuter_28: -1706702444
+      koindropmuter_3: 1143340191
+      koindropmuter_4: 508997449
+      koindropmuter_5: -234156506
+      koindropmuter_6: 1572332750
+      koindropmuter_7: 443391714
+      koindropmuter_8: -1999562014
+      koindropmuter_9: 51862046
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

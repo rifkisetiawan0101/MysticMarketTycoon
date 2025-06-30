@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46aa3bc57eb427042b06e3544f7aed39, type: 3}
+  m_Name: PedagangSayur
+  m_EditorClassIdentifier: 
+  merchantName: Pedagang Sayur
+  merchantPrice: 500
+  merchantPrefab: {fileID: 6384518165722326447, guid: b1b9aaca68aad4d4ca7f8e575e07aa18, type: 3}
+  merchantConstructionPrefab: {fileID: 8695775265983995601, guid: a3d757cf14442d34f85bfab9ccab4e31, type: 3}
+  merchantButton: {fileID: 21300000, guid: c50f637e829e9a74fb9b23bede2c6f51, type: 3}
+  selectedMerchantButton: {fileID: 21300000, guid: 9c8c8792ae14b5c44b6da1cfa08aa7bd, type: 3}
+  merchantWindow: {fileID: 21300000, guid: 1653a6a71b81e0f488057b52b59447f9, type: 3}
+  merchantCursor: {fileID: 4401760256491850035, guid: d57db52d11c7aaf4997b26589e452e79, type: 3}
+  merchantPlacementPrefab: {fileID: 6384518165722326447, guid: 4ecc58d9900aa9d458e7f4a6108457d5, type: 3}

@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: f9a49ab234aaaa244befe839282553e2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ayangfeedback_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.505, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdc53aeefeb2d047bd9673c46fa6e5a
+      internalID: -1616049005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayangfeedback_1
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.51, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11002e333b8f37438bff731d1761de0
+      internalID: 144669422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayangfeedback_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.51, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773b3575b3989124c9ce322d942488a3
+      internalID: -2069974219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayangfeedback_3
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.515, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e58e86acf75def4aa7520e6aceb6b0c
+      internalID: 432089412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayangfeedback_4
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.515, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea1185fefa30de47a010ab93dd92be5
+      internalID: -157352284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayangfeedback_5
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fd3c29d4c89d744b1e26a492625579
+      internalID: 516866313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayangfeedback_6
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.515, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb83d08bdd819542b27ea292e4332f2
+      internalID: -1869207720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayangfeedback_7
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.51, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bec8f942ea1ff24aa0d5ae2abc3c102
+      internalID: 456508295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayangfeedback_8
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5c1d9397058b54b8a104b94a51d344
+      internalID: -1655476245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayangfeedback_9
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.505, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fbc583080574d48a16148989c92384
+      internalID: -1786785352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayangfeedback_10
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.505, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b5eab0cc219f840841dd1e3b3a67f7
+      internalID: 1892617234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayangfeedback_11
+      rect:
+        serializedVersion: 2
+        x: 3421
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.52, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173ae538000f6414ca05761f3c7d1b07
+      internalID: 621758962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayangfeedback_12
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.53, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ebf2ce2340cbe47a0805b598209305
+      internalID: 639198469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayangfeedback_13
+      rect:
+        serializedVersion: 2
+        x: 4043
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.54, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac709e64218ef54cacbf2053bd95940
+      internalID: 1864670391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayangfeedback_14
+      rect:
+        serializedVersion: 2
+        x: 4354
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.54, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207bd9ee264f56547b03566dd668307e
+      internalID: 1941929230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ayangfeedback_15
+      rect:
+        serializedVersion: 2
+        x: 4665
+        y: 0
+        width: 311.875
+        height: 522
+      alignment: 9
+      pivot: {x: 0.54, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fe39ee7c92a614ea66c200ba14185a
+      internalID: 1769308677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ayangfeedback_0: -1616049005
+      ayangfeedback_1: 144669422
+      ayangfeedback_10: 1892617234
+      ayangfeedback_11: 621758962
+      ayangfeedback_12: 639198469
+      ayangfeedback_13: 1864670391
+      ayangfeedback_14: 1941929230
+      ayangfeedback_15: 1769308677
+      ayangfeedback_2: -2069974219
+      ayangfeedback_3: 432089412
+      ayangfeedback_4: -157352284
+      ayangfeedback_5: 516866313
+      ayangfeedback_6: -1869207720
+      ayangfeedback_7: 456508295
+      ayangfeedback_8: -1655476245
+      ayangfeedback_9: -1786785352
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

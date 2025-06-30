@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15da8e791adf7474495c32d74221dd94, type: 3}
+  m_Name: Terpasang
+  m_EditorClassIdentifier: 
+  terpasangButton: {fileID: 21300000, guid: 592d5923435c5f144bf773ebb5009fcf, type: 3}
+  selectedTerpasangButton: {fileID: 21300000, guid: 592d5923435c5f144bf773ebb5009fcf, type: 3}
+  terpasangWindow: {fileID: 21300000, guid: 823450afd08c6cd45915ad48f338a359, type: 3}
