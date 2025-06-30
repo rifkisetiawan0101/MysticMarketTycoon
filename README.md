@@ -32,13 +32,14 @@ Meet **Rojak**, a person with indigo abilities who often plays with his mystical
 
 ## 🗝️ Key Information
 
-|                |                                  |
-|----------------|----------------------------------|
-| **Game Title** | Mystic Market Tycoon             |
-| **Genre**      | Role Playing, Simulation, Tycoon |
-| **Looks**      | Folk, Fantasy, Cute              |
-| **Audience**   | 9+ Age, Tycoon & Fun Game Fans   |
-| **Device**     | PC                               |
+|                 |                                  |
+|-----------------|----------------------------------|
+| **Game Title**  | Mystic Market Tycoon             |
+| **Genre**       | Role Playing, Simulation, Tycoon |
+| **Looks**       | Folk, Fantasy, Cute              |
+| **Audience**    | 9+ Age, Tycoon & Fun Game Fans   |
+| **Device**      | PC                               |
+| **Game Engine** | Unity                            |
 
 ---
 
