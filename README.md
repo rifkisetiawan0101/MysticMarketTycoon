@@ -185,8 +185,8 @@ Face Uwo, the urban legend, in a final click-spam battle to save your market.
 
 ## 📜 License
 
-- **Game Code & Assets:** See [MIT License](LICENSE).
-- **A* Pathfinding Project:** See [Readme and LICENSE](Assets/AstarPathfindingProject/Readme.txt).
+- Game Code & Assets: See [MIT License](LICENSE).
+- A* Pathfinding Project: See [Readme and LICENSE](Assets/AstarPathfindingProject/Readme.txt).
 
 ---
 
