@@ -72,96 +72,112 @@ Meet **Rojak**, a person with indigo abilities who often plays with his mystical
 ## ✨ Features
 
 ### Merchant Placement  
-The feature allows players to arrange the layout of the store they purchase according to their preferences on the map land.
+Arrange the layout of your purchased stores anywhere on the market land.  
+
 ![Merchant Placement](ReadmeAssets/MerchantPlacement.gif)
 
 ---
 
 ### In-Game Tutorial  
 Helpful tutorials guide players throughout the gameplay.  
+_See: `Assets/Script/TutorialManager`_
+
 ![In-Game Tutorial](ReadmeAssets/InGameTutorial.gif)
 
 ---
 
 ### NPC AI  
 NPCs use coroutines to move between merchants and idle, creating a lively market atmosphere.  
-_See: `Assets/Script/NpcAI`_  
+_See: `Assets/Script/NpcAI`_
+
 ![NPC AI](ReadmeAssets/npc-ai.gif)
 
 ---
 
 ### Merchant Coin Collect  
 Merchants accumulate coins when visited by NPCs, which players can collect.  
+
 ![Merchant Coin Collect](ReadmeAssets/MerchantCoinCollect.gif)
 
 ---
 
 ### A* Pathfinding  
 Uses [A* Pathfinding Project](Assets/AstarPathfindingProject/Readme.txt) for realistic character movement.  
+
 ![A* Pathfinding](ReadmeAssets/astar-pathfinding.gif)
 
 ---
 
 ### Invoice  
 Daily market reports are presented to the player.  
+_See: `Assets/Script/InvoiceUI`_
+
 ![Invoice](ReadmeAssets/invoice.gif)
 
 ---
 
 ### Collect Item & Inventory  
 Morning exploration events allow players to gather various collectible materials for merchant upgrades.  
+
 ![Collect Item & Inventory](ReadmeAssets/CollectItem&Inventory.gif)
 
 ---
 
 ### Buy Item  
 Purchase items to restock your merchants.  
+
 ![Buy Item](ReadmeAssets/BuyItem.gif)
 
 ---
 
 ### Restock & Upgrade Merchant 
 Supply resources to keep stores open and prevent stockouts. Stores can be upgraded for more advanced strategies.  
+
 ![Restock & Upgrade Merchant](ReadmeAssets/Restock&UpgradeMerchant.gif)
 
 ---
 
 ### Minigame Pocin  
-A unique minigame experience.  
-_See: `Assets/Script/MinigamePocin`_  
+A minigame that helps Pocin put vegetables into a basket.  
+_See: `Assets/Script/MinigamePocin`_
+
 ![Minigame Pocin](ReadmeAssets/minigame-pocin.gif)
 
 ---
 
 ### Minigame Kunchan  
-Another fun minigame.  
-_See: `Assets/Script/MinigameKunchan`_  
+A minigame that helps Kunchan set the fire for cooking.  
+_See: `Assets/Script/MinigameKunchan`_
+
 ![Minigame Kunchan](ReadmeAssets/minigame-kunchan.gif)
 
 ---
 
 ### Minigame Ayang  
-Enjoy this special minigame.  
-_See: `Assets/Script/MinigameAyang`_  
+A minigame that helps Ayang choose the type of meat according to the question.  
+_See: `Assets/Script/MinigameAyang`_
+
 ![Minigame Ayang](ReadmeAssets/minigame-ayang.gif)
 
 ---
 
 ### Quick Event Battle  
 Engage in click-spam battles against Uto the thug to protect your earnings.  
+
 ![Quick Event Battle](ReadmeAssets/quick-event-battle.gif)
 
 ---
 
 ### Boss Final Battle  
 Face Uwo, the urban legend, in a final click-spam battle to save your market.  
+
 ![Boss Final Battle](ReadmeAssets/boss-final-battle.gif)
 
 ---
 
 ## 📁 Project Structure
 
-- `Assets/Script/` — Main game scripts (UI, AI, Audio, etc.)
+- `Assets/Script/` — Main game scripts (Merchant, Player, NPC AI, Audio, etc.)
 - `Assets/AstarPathfindingProject/` — Third-party pathfinding library
 - `Assets/Animation/`, `Assets/Prefabs/`, `Assets/Font/`, etc. — Game assets
 
@@ -176,8 +192,11 @@ Face Uwo, the urban legend, in a final click-spam battle to save your market.
 
 ## 👥 Contributors
 
-- [Your Name](https://github.com/yourusername)
-- [Other Contributors]
+- [Muhammad Khalfani Abrar Fathir](https://github.com/mukafug) - Product Manager, Game Designer, 2D Background & Environment
+- [Rifki Setiawan](https://github.com/rifkisetiawan0101) - Game Programmer
+- [Bramantya Destalenta](https://www.behance.net/bramantdestale) - Game Programmer
+- [Danang Aryaputra Giffary](https://www.behance.net/nangsen240danang) - 2D Character Designer, Animator
+- [Ananda Sukma Rosdani](https://www.behance.net/anandasukma) - UI & UX Artist, Graphic Designer
 
 ---
 
