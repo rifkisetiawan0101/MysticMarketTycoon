@@ -73,3 +73,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Ignore A* Pathfinding Project
+Assets/AstarPathfindingProject/
+
+# Ignore CodeMonkey scripts
+Assets/CodeMonkey/
