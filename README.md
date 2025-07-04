@@ -14,6 +14,12 @@
 
 ---
 
+## 🧑‍💼 Download
+
+You can download the game at LadaHitam Creation [itch.io](https://ladahitamcreation.itch.io/).
+
+---
+
 ## 🎬 Trailer
 
 <div align="left">
